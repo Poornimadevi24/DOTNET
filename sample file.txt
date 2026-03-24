@@ -1,7 +1,0 @@
-GitHub commands
-git init
-git remote add origin(link of repository)
-git remote -v
-git status
-git add
-git rm --cached<file>
