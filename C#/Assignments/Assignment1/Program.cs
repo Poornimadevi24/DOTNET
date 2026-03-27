@@ -23,6 +23,7 @@ namespace ConsoleApp3
             {
                 Console.WriteLine(num1 + " and " + num2 + " are not equal");
             }
+            Console.ReadLine();
         }
     }
 }
