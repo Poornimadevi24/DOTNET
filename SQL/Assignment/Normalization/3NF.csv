@@ -1,0 +1,10 @@
+NORMALIZATION,,,,,,,,,,,
+,,,,,,,,,,,
+3NF,,,,,,,,,,,
+,,,,,,,,,,,
+New Table: Owner,,,,,,,,Updated Property Table,,,
+,,,,,,,,,,,
+ownerNo,oName,,,,,,,propertyNo,pAddress,rent,ownerNo
+CO40,Tina Murphy,,,,,,,PG4,6 Lawrence St,350,CO40
+CO93,Tony Shaw,,,,,,,PG16,5 Novar Dr,450,CO93
+,,,,,,,,PG36,2 Manor Rd,370,CO93

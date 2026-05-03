@@ -1,0 +1,10 @@
+NORMALIZATION,,,,,,,,
+,,,,,,,,
+1NF,,,,,,,,
+,,,,,,,,
+ClientNo,cName,propertyNo,pAddress,rentStart,rentFinish,rent,ownerNo,oName
+CR76,John Kay,PG4,6 Lawrence St,1-Jul-00,31-Aug-01,350,CO40,Tina Murphy
+CR76,John Kay,PG16,5 Novar Dr,1-Sep-02,1-Sep-02,450,CO93,Tony Shaw
+CR56,Aline Stewart,PG4,6 Lawrence St,1-Sep-99,10-Jun-00,350,CO40,Tina Murphy
+CR56,Aline Stewart,PG36,2 Manor Rd,10-Oct-00,1-Dec-01,370,CO93,Tony Shaw
+CR56,Aline Stewart,PG16,5 Novar Dr,1-Nov-02,1-Aug-03,450,CO93,Tony Shaw
