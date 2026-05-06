@@ -8,3 +8,11 @@ ownerNo,oName,,,,,,,propertyNo,pAddress,rent,ownerNo
 CO40,Tina Murphy,,,,,,,PG4,6 Lawrence St,350,CO40
 CO93,Tony Shaw,,,,,,,PG16,5 Novar Dr,450,CO93
 ,,,,,,,,PG36,2 Manor Rd,370,CO93
+,,,,,,,,,,,
+Client,,,,,,,,Rental,,,
+,,,,,,,,,,,
+clientNo (PK),cName,,,,,,,clientNo (FK),propertyNo (FK),rentStart,rentFinish
+CR76,John Kay,,,,,,,CR76,PG4,1-Jul-00,31-Aug-01
+CR56,Aline Stewart,,,,,,,CR76,PG16,1-Sep-02,1-Sep-02
+,,,,,,,,CR56,PG4,1-Sep-99,10-Jun-00
+,,,,,,,,CR56,PG36,10-Oct-00,1-Dec-01
