@@ -1,0 +1,28 @@
+﻿<!--5. Find all h1 elements that are children of a div element and apply a background to them.-->
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Finding Child Elements</title>
+   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+</head>
+<body>
+         <div>
+            <h1>Welcome to WebTechnologies</h1>
+           
+        </div>
+
+        <div>
+            <h1>JQuery</h1>
+        </div>
+
+        <h1>Javascript</h1>
+ <script>
+    $(document).ready(function () {
+        $("div > h1").css("background-color", "yellow");
+    });
+ </script>
+
+    </body>
+</html>
