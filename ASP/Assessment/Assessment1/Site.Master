@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="FoodOrderManagement.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Food Order Management</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+
+        .header {
+            background-color: #ff6600;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .menu {
+            background-color: #333;
+            padding: 12px;
+        }
+
+        .menu a {
+            color: white;
+            text-decoration: none;
+            margin-right: 20px;
+            font-weight: bold;
+        }
+
+        .content {
+            padding: 20px;
+            background-color: white;
+            min-height: 500px;
+        }
+
+        .footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+<body>
+
+    <form id="form1" runat="server">
+
+        <div class="header">
+            <h1>Online Food Ordering Management System</h1>
+        </div>
+
+        <div class="menu">
+            <a href="MenuList.aspx">Menu Items</a>
+            <a href="AddEditMenu.aspx">Add Menu</a>
+            <a href="OrderStats.aspx">Order Stats</a>
+            <a href="Logout.aspx">Logout</a>
+        </div>
+
+        <div class="content">
+
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+        </div>
+
+        <div class="footer">
+            © 2026 Food Order Management
+        </div>
+
+    </form>
+
+</body>
+</html>
