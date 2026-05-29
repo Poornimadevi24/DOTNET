@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|c:\\users\\poornimadevig\\source\\repos\\mvc_assignment\\mvc_assignment\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|solutionrelative:mvc_assignment\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|c:\\users\\poornimadevig\\source\\repos\\mvc_assignment\\mvc_assignment\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|solutionrelative:mvc_assignment\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|c:\\users\\poornimadevig\\source\\repos\\mvc_assignment\\mvc_assignment\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|solutionrelative:mvc_assignment\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|c:\\users\\poornimadevig\\source\\repos\\mvc_assignment\\mvc_assignment\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|solutionrelative:mvc_assignment\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|c:\\users\\poornimadevig\\source\\repos\\mvc_assignment\\mvc_assignment\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|solutionrelative:mvc_assignment\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|c:\\users\\poornimadevig\\source\\repos\\mvc_assignment\\mvc_assignment\\repositories\\icontactrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|solutionrelative:mvc_assignment\\repositories\\icontactrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|c:\\users\\poornimadevig\\source\\repos\\mvc_assignment\\mvc_assignment\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A3B819-C5FA-477D-ADB4-B410E2C305E3}|MVC_Assignment\\MVC_Assignment.csproj|solutionrelative:mvc_assignment\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Views\\Contact\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assignment\\Views\\Contact\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Views\\Contact\\Delete.cshtml",
+              "RelativeToolTip": "MVC_Assignment\\Views\\Contact\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T12:18:38.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Views\\Contact\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assignment\\Views\\Contact\\Details.cshtml",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Views\\Contact\\Details.cshtml",
+              "RelativeToolTip": "MVC_Assignment\\Views\\Contact\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T12:18:10.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Views\\Contact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assignment\\Views\\Contact\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Views\\Contact\\Edit.cshtml",
+              "RelativeToolTip": "MVC_Assignment\\Views\\Contact\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T12:17:37.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assignment\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Views\\Contact\\Create.cshtml",
+              "RelativeToolTip": "MVC_Assignment\\Views\\Contact\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T12:16:57.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MVC_Assignment\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MVC_Assignment\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T12:12:35.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "MVC_Assignment\\Repositories\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "MVC_Assignment\\Repositories\\ContactRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T12:10:28.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContactRepository.cs.cs",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Repositories\\IContactRepository.cs.cs",
+              "RelativeDocumentMoniker": "MVC_Assignment\\Repositories\\IContactRepository.cs.cs",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\MVC_Assignment\\MVC_Assignment\\Repositories\\IContactRepository.cs.cs",
+              "RelativeToolTip": "MVC_Assignment\\Repositories\\IContactRepository.cs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T12:09:36.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

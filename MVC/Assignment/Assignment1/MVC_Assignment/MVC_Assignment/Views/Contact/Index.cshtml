@@ -1,0 +1,30 @@
+﻿@model IEnumerable<MVC_Assignment.Models.Contact>
+
+<h2>Contact List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.FirstName @item.LastName</td>
+            <td>@item.Email</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
