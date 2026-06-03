@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|c:\\users\\poornimadevig\\source\\repos\\code_first_approach\\code_first_approach\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|solutionrelative:code_first_approach\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|c:\\users\\poornimadevig\\source\\repos\\code_first_approach\\code_first_approach\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|solutionrelative:code_first_approach\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|c:\\users\\poornimadevig\\source\\repos\\code_first_approach\\code_first_approach\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|solutionrelative:code_first_approach\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|c:\\users\\poornimadevig\\source\\repos\\code_first_approach\\code_first_approach\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|solutionrelative:code_first_approach\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|c:\\users\\poornimadevig\\source\\repos\\code_first_approach\\code_first_approach\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|solutionrelative:code_first_approach\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|c:\\users\\poornimadevig\\source\\repos\\code_first_approach\\code_first_approach\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE93D87-A2C6-446B-BB61-544587B221CF}|Code_First_Approach\\Code_First_Approach.csproj|solutionrelative:code_first_approach\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 286,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Code_First_Approach\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Code_First_Approach\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:55:25.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Code_First_Approach\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Code_First_Approach\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:46:06.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Code_First_Approach\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Code_First_Approach\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:45:28.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Code_First_Approach\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Code_First_Approach\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:40:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "Code_First_Approach\\Models\\Movies.cs",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Models\\Movies.cs",
+              "RelativeToolTip": "Code_First_Approach\\Models\\Movies.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:29:17.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Code_First_Approach\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\poornimadevig\\source\\repos\\Code_First_Approach\\Code_First_Approach\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Code_First_Approach\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:29:07.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿@model Code_First_Approach.Models.Movies
+
+<h2>Create Movie</h2>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Movie Name:
+        @Html.TextBoxFor(m => m.MovieName)
+    </p>
+
+    <p>
+        Director Name:
+        @Html.TextBoxFor(m => m.DirectorName)
+    </p>
+
+    <p>
+        Date Of Release:
+        @Html.TextBoxFor(m => m.DateOfRelease)
+    </p>
+
+    <input type="submit" value="Create" />
+}
+
+<br />
+@Html.ActionLink("Back to List", "Index")

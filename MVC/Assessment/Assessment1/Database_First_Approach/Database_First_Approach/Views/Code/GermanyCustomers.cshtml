@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Database_First_Approach.Models.Customer>
+
+<h2>Customers From Germany</h2>
+
+<table border="1">
+    <tr>
+        <th>CustomerID</th>
+        <th>CompanyName</th>
+        <th>Country</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CustomerID</td>
+            <td>@item.CompanyName</td>
+            <td>@item.Country</td>
+        </tr>
+    }
+</table>
+
+

@@ -1,0 +1,30 @@
+﻿@model Code_First_Approach.Models.Movies
+
+<h2>Edit Movie</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.Mid)
+
+    <p>
+        Movie Name:
+        @Html.TextBoxFor(m => m.MovieName)
+    </p>
+
+    <p>
+        Director Name:
+        @Html.TextBoxFor(m => m.DirectorName)
+    </p>
+
+    <p>
+        Date Of Release:
+        @Html.TextBoxFor(m => m.DateOfRelease)
+    </p>
+
+    <input type="submit" value="Update" />
+}
+
+<br />
+@Html.ActionLink("Back to List", "Index")
+
+

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Code_First_Approach.Models.Movies>
+
+<h2>Movies List</h2>
+
+<p>
+    @Html.ActionLink("Create New Movie", "Create")
+</p>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>Movie Name</th>
+        <th>Director Name</th>
+        <th>Date Of Release</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.MovieName</td>
+            <td>@item.DirectorName</td>
+            <td>@item.DateOfRelease</td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Mid }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Mid }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Mid })
+            </td>
+        </tr>
+    }
+</table>
