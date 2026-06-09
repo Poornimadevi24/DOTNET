@@ -1,0 +1,22 @@
+﻿@model List<WebApiCore_Assessment_.Models.Order>
+
+<h2>Orders of Buchanan Steven (EmployeeId = 5)</h2>
+
+<table border="1">
+    <tr>
+        <th>Order Id</th>
+        <th>Customer Id</th>
+        <th>Order Date</th>
+        <th>Ship Country</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.OrderId</td>
+            <td>@item.CustomerId</td>
+            <td>@item.OrderDate</td>
+            <td>@item.ShipCountry</td>
+        </tr>
+    }
+</table>
